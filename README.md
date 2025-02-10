@@ -1,11 +1,11 @@
 <p>
-👋 Hi there, I’m Joao V. S. Santos, you can just call me Joao Santos 
+👋 Hi there, I’m Joao Vitor Sampaio dos Santos, you can just call me Joao Santos 
 </p>
 <p>
 👀 I have a Interest in Web Development, GameDev, Nature as a whole, Fluffy Animals and 3D Art
 </p>
 <p>
-📖 I’m currently studying Game Development
+📖 I’m currently studying Web Development
 </p>
  
  <div id="canvas" style="display:flex;align-content:left;flex-direction:column;">
