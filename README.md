@@ -10,11 +10,11 @@
  
  <div id="canvas" style="display:flex;align-content:left;flex-direction:column;">
   <div>
-   <img height="auto" width="400px" src="https://github-readme-stats.vercel.app/api?username=JustAnotherRedFox&show_icons=true&theme=transparent"/>
+   <img height="auto" width="400px" src="https://github-readme-stats.vercel.app/api?username=JustAnotherWhiteFox&show_icons=true&theme=transparent"/>
   </div>
 
   <div>
-   <img height="auto" width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustAnotherRedFox&theme=transparent&size_weight=0.5&count_weight=0.5&langs_count=10&exclude_repo=.config"/>
+   <img height="auto" width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustAnotherWhiteFox&theme=transparent&size_weight=0.5&count_weight=0.5&langs_count=10&exclude_repo=.config"/>
   </div>
 </div>
 
