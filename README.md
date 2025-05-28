@@ -2,19 +2,19 @@
 👋 Hi there, I’m Joao Vitor Sampaio dos Santos, you can just call me Joao Santos 
 </p>
 <p>
-👀 I have a Interest in Web Development, GameDev, Nature as a whole, Fluffy Animals and 3D Art
+👀 I have a Interest in Software Development, GameDev, Nature as a whole, Fluffy Animals and 3D Art
 </p>
 <p>
-📖 I’m currently studying Web Development
+📖 I’m currently studying .Net and Software Development
 </p>
  
  <div id="canvas" style="display:flex;align-content:left;flex-direction:column;">
   <div>
-   <img height="auto" width="400px" src="https://github-readme-stats.vercel.app/api?username=JustAnotherWhiteFox&show_icons=true&theme=transparent"/>
+   <img height="auto" width="400px" src="https://github-readme-stats.vercel.app/api?username=JustJoaoSantos&show_icons=true&theme=transparent"/>
   </div>
 
   <div>
-   <img height="auto" width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustAnotherWhiteFox&theme=transparent&size_weight=0.5&count_weight=0.5&langs_count=10&exclude_repo=.config"/>
+   <img height="auto" width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustJoaoSantos&theme=transparent&size_weight=0.5&count_weight=0.5&langs_count=10&exclude_repo=.config"/>
   </div>
 </div>
 
