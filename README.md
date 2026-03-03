@@ -2,9 +2,9 @@
 
 👋 Hi there, I’m Joao Vitor Sampaio dos Santos, you can call me Joao or John.
 
-👀 I have quite a Interest in Software Development, GameDev, Nature as a whole, Fluffy Animals and 3D Art.
+👀 I have quite a Interest in Software Development, GameDev, Music partircularly Rock and Metal, Cute Animals and 3D Art.
 
-📖 I’m currently studying .Net and Software Development.
+📖 I’m currently on the second semester of Analise e Desenvolvimento de Sistemas.
 
  ### Conecte-se comigo
 
