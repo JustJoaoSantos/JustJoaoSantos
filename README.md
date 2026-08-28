@@ -4,7 +4,7 @@
 
 👀 I have quite a Interest in Software Development, GameDev, Music partircularly Rock and Metal, Cute Animals and 3D Art.
 
-📖 I’m currently on the second semester of Analise e Desenvolvimento de Sistemas.
+📖 I’m currently on the 3rd semester of Analise e Desenvolvimento de Sistemas.
 
  ### Conecte-se comigo
 
@@ -19,6 +19,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Csharp](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
 
+<!--
 ### Github Status
  <div id="canvas" style="display:flex;align-content:left;flex-direction:column;">
   <div>
@@ -28,8 +29,6 @@
   </div>
 </div>
 
-
-<!---
 justa-whitefox/justa-whitefox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
