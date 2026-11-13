@@ -1,10 +1,10 @@
 # Joao S. Santos
 
-👋 Hi there, I’m Joao Vitor Sampaio dos Santos, you can call me Joao or John.
+👋 Hi, Sou João Santos.
 
-👀 I have quite a Interest in Software Development, GameDev, Music partircularly Rock and Metal, Cute Animals and 3D Art.
+👀 Tenho interesse em Desenvolvimento de Software, Websites e Games.
 
-📖 I’m currently on the 3rd semester of Analise e Desenvolvimento de Sistemas.
+📖 Atualmente no terceiro semestre de Analise e Desenvolvimento de Sistemas.
 
  ### Conecte-se comigo
 
